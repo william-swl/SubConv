@@ -69,7 +69,7 @@ HEAD:
     - DOMAIN-KEYWORD,dockerhub,PROXY
     - MATCH,FALLBACK
 TEST_URL: https://www.gstatic.com/generate_204
-RULESET:
+RULESET: []
 CUSTOM_PROXY_GROUP:
   - name: PROXY
     type: select
